@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">Lab4_2</string>
+<string name="base_area">Base Area</string>
+<string name="sliding_area">Sliding Area</string>
+<string name="open_page">OPEN PAGE</string>
+<string name="close_page">CLOSE PAGE</string>
+</resources>
